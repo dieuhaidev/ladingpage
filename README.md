@@ -1,0 +1,2 @@
+# ladingpage
+Trang Lading Page
